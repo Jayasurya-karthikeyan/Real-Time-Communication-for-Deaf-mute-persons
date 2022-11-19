@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  background-image: url("../image/bg4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+  padding: 0;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+.myvideo {
+  background-color: floralwhite;
+  margin-top: 10vh;
+  align-content: center;
+}
+.title {
+  text-align: center;
+  color: white;
+  margin-top: 10vh;
+}
+
+h2 {
+  color: white;
+  text-decoration: none;
+  font-size: 25px;
+}
+a {
+  color: white;
+  font-size: 20px;
+}
+a:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
+  transition-duration: transform 0.2s;
+}
+p {
+  color: aliceblue;
+  align-content: center;
+  margin: 7vw;
+  font-size: 22px;
+}
